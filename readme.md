@@ -1,3 +1,5 @@
-<!-- İlk Repom -->
+# İlk repom
 
-İlk repom çok heyecanlıyım.
+Çok heyecanlıyım. İlk github repomu oluşturdum.
+
+Bu repoya yen dosyalar ekleyeceğim.
